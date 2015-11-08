@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.yoghourt.wolfcoder.shrinkmenu.ShrinkMenu
+        android:id="@+id/menu"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        myview:layout_radius="150dp"
+        myview:circle_radius="50dp"
+        android:layout_alignParentBottom="true">
+    </com.yoghourt.wolfcoder.shrinkmenu.ShrinkMenu>
+</RelativeLayout>

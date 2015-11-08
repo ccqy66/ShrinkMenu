@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="shrinkMenu">
+        <!--布局半圆的半径-->
+        <attr name="layout_radius" format="dimension"/>
+        <!--图片menu的半径-->
+        <attr name="circle_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
